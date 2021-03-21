@@ -1,0 +1,8 @@
+com\aslihankocabas\api\MessageController.class
+com\aslihankocabas\auth\JwtTokenFilter.class
+com\aslihankocabas\WebSecurityConfiguration.class
+com\aslihankocabas\api\AuthController.class
+com\aslihankocabas\auth\UserDetailsService.class
+com\aslihankocabas\SpringBootJwtApplication.class
+com\aslihankocabas\auth\TokenManager.class
+com\aslihankocabas\request\LoginRequest.class
